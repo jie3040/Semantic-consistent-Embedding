@@ -13,7 +13,7 @@ The code was tested with Pytorch 1.9.0, CUDA 10.2 and Windows 10.  </br>
 
 # Quick start
 ```shell
-python sce.py
+python sce_TEP.py
 ```
 
 # Thanks to the third party

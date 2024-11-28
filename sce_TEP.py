@@ -14,7 +14,7 @@ from torch import device
 from torch.optim import optimizer
 from torch.utils.data import DataLoader, Dataset
 
-from read_data import creat_dataset
+from read_TEP_data import creat_dataset
 
 
 #%%

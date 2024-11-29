@@ -1,6 +1,6 @@
 # Semantic-consistent Embedding
 The original program is a toy data example of semantic-consistent embedding (SCE).
-This is the example on TEP.
+This is an example on TEP for zero-shot fault diagnosis.
 
 # Requirements
 ~~~
